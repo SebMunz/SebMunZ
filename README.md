@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Cat daddy, sound engineer and weblate volunteer.<br>I'm always studying and learning new things because knowledge doesn't hurt (and I also have the 'tism).<br>Tons of different hobbies and skills:<br>musician, sound engineering, translation, 3D, pixel art, fantasy cartographer, trade's worker, blogger, martial arts, gaming, manga reviewer, photography, tester, SQL, Data analysis and visualization, and the list keeps growing(...).<br><br>On the programming side I know some Java w/Spring for backend.<br><br>Currently: Python, JS, Cybersecurity skills and IT Support.<br><br>Also, currently uploading my notes<br>https://apuntes-seb.vercel.app</p>
+<p align="left">Cat daddy, sound engineer and weblate volunteer.<br>I'm always studying and learning new things because knowledge doesn't hurt (and I also have the 'tism).<br>Tons of different hobbies and skills:<br>musician, sound engineering, translation, 3D, pixel art, fantasy cartographer, trade's worker, blogger, martial arts, gaming, manga reviewer, photography, tester, SQL, Data analysis and visualization, and the list keeps growing(...).<br><br>On the programming side I know some Java w/Spring for backend, python for automation and JavaScript w/Node for backend.<br><br>Currently: React, deepening my cybersecurity skills and IT Support with THM, HTB, CiscoNetAcad, ISC2, yadayadayada.<br><br>Also, currently uploading my notes<br>https://apuntes-seb.vercel.app</p>
 
 ###
 
